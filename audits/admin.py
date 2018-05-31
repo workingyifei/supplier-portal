@@ -4,5 +4,3 @@ from .models import Audit
 
 # Register your models here.
 admin.site.register(Audit)
-
-
